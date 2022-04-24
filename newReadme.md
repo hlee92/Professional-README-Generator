@@ -6,7 +6,7 @@
   - [Installation](#installation)
   - [Usage](#usage)
   - [Contribution](#contribution)
-  - [Testing](#testing)
+  - [Tests](#tests)
   - [License](#license)
 
   ## Description 
@@ -22,7 +22,7 @@
   
   N/A
 
-  ## Contributing
+  ## Contribution
 
   N/A
 
