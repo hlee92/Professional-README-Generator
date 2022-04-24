@@ -10,3 +10,5 @@ The point of this challenge was to create a Professional README Generator
 GitHub: https://github.com/hlee92/Professional-README-Generator
 
 ![Professional README Generator](https://user-images.githubusercontent.com/91634095/165001050-92a90f33-b409-4850-bc16-b563cd03be20.gif)
+
+![Professional README Sample](https://user-images.githubusercontent.com/91634095/165001792-b233d2eb-af5e-4109-8ebb-66717c0348e3.png)
